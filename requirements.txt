@@ -1,0 +1,14 @@
+torch==1.8.1
+numpy==1.19.5
+pandas==1.1.5
+scipy==1.5.4
+scikit-learn==0.24.1
+matplotlib==2.2.2
+tqdm==4.54.0
+git+git://github.com/christophM/rulefit.git@0a15d14242877a4a7408091e0832363c495a231d#egg=rulefit
+lime==0.2.0.1
+shap==0.38.1
+xgboost==0.90
+fairlearn==0.7.0
+sklearn-pandas==2.2.0
+imbalanced-learn==0.8.0
