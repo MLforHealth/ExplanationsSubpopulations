@@ -12,3 +12,4 @@ xgboost==0.90
 fairlearn==0.7.0
 sklearn-pandas==2.2.0
 imbalanced-learn==0.8.0
+aif360==0.4.0
